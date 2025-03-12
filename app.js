@@ -1,5 +1,3 @@
-/* Created by Tivotal */
-
 let captchaTxt = document.querySelector(".captcha-text");
 let refreshBtn = document.querySelector(".refresh-btn");
 
